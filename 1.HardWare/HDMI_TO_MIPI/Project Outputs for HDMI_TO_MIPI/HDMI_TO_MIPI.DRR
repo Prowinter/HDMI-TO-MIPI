@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: HDMI_TO_MIPI.PcbDoc   2021/11/24  16:23:13
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : HDMI_TO_MIPI-RoundHoles.TXT
+ASCII SlotHoles File : HDMI_TO_MIPI-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             175       PTH        0.00mm (0.00inch)
+T2      0.6mm (24mil)                                             Slot              4         PTH        0.00mm (0.00inch)
+T3      0.711mm (28mil)                                           Round             2         PTH        0.00mm (0.00inch)
+T4      0.9mm (35mil)                                             Slot              4         PTH        0.00mm (0.00inch)
+T5      0.65mm (26mil)                                            Round             2         NPTH       0.00mm (0.00inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              187
+
+Total Processing Time (hh:mm:ss) : 00:00:00

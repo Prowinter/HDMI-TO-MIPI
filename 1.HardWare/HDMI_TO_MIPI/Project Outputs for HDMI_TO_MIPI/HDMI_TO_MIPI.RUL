@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: D:\OneDrive\Idea\2020_11_21_HDMI_TO_MIPI\1.HardWare\HDMI_TO_MIPI\HDMI_TO_MIPI.PcbDoc
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=3.50
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=3.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [HDMI_TO_MIPI.PrjPcb]
+   Generated File[HDMI_TO_MIPI-RoundHoles.TXT]
+   Generated File[HDMI_TO_MIPI-SlotHoles.TXT]
+   Generated File[HDMI_TO_MIPI.LDP]
+   Generated File[HDMI_TO_MIPI.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 16:23:13 On 2021/11/24

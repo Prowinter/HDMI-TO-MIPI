@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=Connect.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=Connect.SchDoc|FileName=Main.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Connect.SchDoc|FileName=Power.SchDoc|SheetNumber=2

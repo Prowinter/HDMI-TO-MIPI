@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=MIPI_CLK_P Pin=FPC?-8
+Removed Pin From Net: NetName=MIPI_CLK_N Pin=FPC?-9
+Removed Pin From Net: NetName=MIPI_D1_P Pin=FPC?-11
+Removed Pin From Net: NetName=MIPI_D1_N Pin=FPC?-12
+Added Pin To Net: NetName=MIPI_D1_P Pin=FPC?-8
+Added Pin To Net: NetName=MIPI_D1_N Pin=FPC?-9
+Added Pin To Net: NetName=MIPI_CLK_P Pin=FPC?-11
+Added Pin To Net: NetName=MIPI_CLK_N Pin=FPC?-12

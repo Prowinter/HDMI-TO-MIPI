@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=D1 Old Footprint=SMA New Footprint=SOD-323
+Change Component Comment : Designator=D1 Old Comment=SS14 New Comment=B5919WS
+Change Component Designator: OldDesignator=FPC1 NewDesignator=FPC2
+Change Component Designator: OldDesignator=FPC2 NewDesignator=FPC1
+Change component parameters: Designator = "D1" ("D1"); Footprint = "SMA"; UniqueID = "\YQTSSJYF" ("\YQTSSJYF")
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "肖特基二极管"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"

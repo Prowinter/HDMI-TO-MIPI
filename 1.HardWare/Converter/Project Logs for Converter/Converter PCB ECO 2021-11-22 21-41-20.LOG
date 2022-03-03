@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=C2 Old Footprint=C0805_L New Footprint=C0402_L
+Change Component Footprint: Designator=C3 Old Footprint=C0805_L New Footprint=C0402_L
+Change Component Footprint: Designator=C4 Old Footprint=C0805_L New Footprint=C0402_L
+Change Component Footprint: Designator=R1 Old Footprint=R0805_L New Footprint=R0402_L
+Change Component Footprint: Designator=R2 Old Footprint=R0805_L New Footprint=R0402_L
+Change Component Footprint: Designator=R3 Old Footprint=R0805_L New Footprint=R0603_L
+Change Component Comment : Designator=R1 Old Comment=1K New Comment=10K
+Change Component Designator: OldDesignator=JP? NewDesignator=FPC?
